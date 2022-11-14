@@ -1,5 +1,6 @@
 .container {
   padding: 0 2rem;
+  background-color: #363740;
 }
 
 .main {
@@ -56,6 +57,10 @@
   font-size: 1.5rem;
 }
 
+/* .btn {
+  background-color: #3751ff;
+} */
+
 .code {
   background: #fafafa;
   border-radius: 5px;
@@ -82,8 +87,13 @@
   border: 1px solid #eaeaea;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
-  max-width: 300px;
+  max-width: 600px;
+  background-color: #ffffff;
 }
+
+/* .input w{
+  background-color: #f0f1f7;
+} */
 
 .card:hover,
 .card:focus,
